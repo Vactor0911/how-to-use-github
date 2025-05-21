@@ -4,10 +4,11 @@
 <br />
 
 ## 목차
-1. Issue와 Milestone
-2. GitHub Project
-3. GitHub Templates
-4. DependaBot과 CodeQL
-5. GitHub Actions, Workflow
-6. GitHub Secrets
-7. Q&A
+1. 브랜치 관리 기법
+2. Issue와 Milestone
+3. GitHub Project
+4. GitHub Templates
+5. DependaBot과 CodeQL
+6. GitHub Actions, Workflow
+7. GitHub Secrets
+8. Q&A
